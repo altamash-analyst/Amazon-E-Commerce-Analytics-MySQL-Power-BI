@@ -117,6 +117,8 @@ These calculations provide a foundation for analyzing sales after discounts and 
 
 Explore order activity, sales value, discounts, and transaction trends.
 
+dashboard/dashboard1.PNG
+
 Potential analysis:
 - Gross sales and net sales
 - Order volume
@@ -129,6 +131,8 @@ Potential analysis:
 
 Use customer demographic, geographic, and segment information to explore purchasing behavior.
 
+dashboard/dashboard2.PNG
+
 Potential analysis:
 - Customer distribution by region
 - Customer segment performance
@@ -139,6 +143,8 @@ Potential analysis:
 ### 3. Product & Category Analytics
 
 Use product attributes and order-item information to compare product performance.
+
+dashboard/dashboard3.PNG
 
 Potential analysis:
 - Product revenue
@@ -152,6 +158,8 @@ Potential analysis:
 
 Use order status, shipping type, destination, and delivery-day information to examine operational performance.
 
+dashboard/dashboard4.PNG
+
 Potential analysis:
 - Orders by status
 - Orders by payment method
@@ -162,6 +170,8 @@ Potential analysis:
 ### 5. Profitability Analysis
 
 Use the calculated financial fields to investigate product-level financial performance.
+
+dashboard/dashboard5.PNG
 
 Potential analysis:
 - Gross sales
