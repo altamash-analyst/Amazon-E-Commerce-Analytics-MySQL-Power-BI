@@ -117,7 +117,7 @@ These calculations provide a foundation for analyzing sales after discounts and 
 
 Explore order activity, sales value, discounts, and transaction trends.
 
-![Amazon-E-Commerce-Analytics-MySQL-Power-BI](dashboard/dashboard1.PNG)
+![Amazon-E-Commerce-Analytics-MySQL-Power-BI](Dashboard/Dashboard1.PNG)
 
 Potential analysis:
 - Gross sales and net sales
@@ -131,7 +131,7 @@ Potential analysis:
 
 Use customer demographic, geographic, and segment information to explore purchasing behavior.
 
-![Amazon-E-Commerce-Analytics-MySQL-Power-BI](dashboard/dashboard2.PNG)
+![Amazon-E-Commerce-Analytics-MySQL-Power-BI](Dashboard/Dashboard2.PNG)
 
 Potential analysis:
 - Customer distribution by region
@@ -144,7 +144,7 @@ Potential analysis:
 
 Use product attributes and order-item information to compare product performance.
 
-![Amazon-E-Commerce-Analytics-MySQL-Power-BI](dashboard/dashboard3.PNG)
+![Amazon-E-Commerce-Analytics-MySQL-Power-BI](Dashboard/Dashboard3.PNG)
 
 Potential analysis:
 - Product revenue
@@ -158,7 +158,7 @@ Potential analysis:
 
 Use order status, shipping type, destination, and delivery-day information to examine operational performance.
 
-![Amazon-E-Commerce-Analytics-MySQL-Power-BI](dashboard/dashboard4.PNG)
+![Amazon-E-Commerce-Analytics-MySQL-Power-BI](Dashboard/Dashboard4.PNG)
 
 Potential analysis:
 - Orders by status
@@ -171,7 +171,7 @@ Potential analysis:
 
 Use the calculated financial fields to investigate product-level financial performance.
 
-![Amazon-E-Commerce-Analytics-MySQL-Power-BI](dashboard/dashboard5.PNG)
+![Amazon-E-Commerce-Analytics-MySQL-Power-BI](Dashboard/Dashboard5.PNG)
 
 Potential analysis:
 - Gross sales
