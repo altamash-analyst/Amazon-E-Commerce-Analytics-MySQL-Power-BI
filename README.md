@@ -364,14 +364,4 @@ Data Analyst | Excel • Power BI • Python • MySQL
 
 ---
 
-## GitHub Repository Description
-
-MySQL and Power BI e-commerce analytics project exploring customers, orders, products, sales, discounts, delivery operations, and product-level profitability using a synthetic dataset.
-
-## GitHub Topics
-
-`mysql` `sql` `power-bi` `ecommerce-analytics` `sales-analytics` `customer-analytics` `product-analytics` `business-intelligence` `data-analytics` `sql-joins` `sql-views` `database-design` `dax` `Altamash-Analyst`
-
-## SEO Keywords
-
 Amazon E-Commerce Analytics, MySQL E-Commerce Database, SQL Sales Analysis, Power BI E-Commerce Dashboard, E-Commerce Data Analytics, Customer Analytics, Product Performance Analysis, Sales and Profitability Analysis, MySQL SQL Project, Business Intelligence Portfolio, Data Analyst Portfolio.
